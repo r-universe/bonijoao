@@ -5,6 +5,9 @@
 [submodule "deriva"]
 	path = deriva
 	url = https://github.com/bonijoao/deriva
+[submodule "figsr"]
+	path = figsr
+	url = https://github.com/bonijoao/figsr
 [submodule "tidyprf"]
 	path = tidyprf
 	url = https://github.com/bonijoao/tidyprf
